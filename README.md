@@ -4,7 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mirjalol%20Nosirov&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Crafting+beautiful+UIs+%F0%9F%8E%A8;React+%2B+Next.js+enthusiast+%E2%9A%A1;Turning+Figma+into+reality+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C±" alt="Typing SVG" />
 </a>
 
@@ -87,7 +86,5 @@ const mirjalol = {
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-**"First, solve the problem. Then, write the code."** — *John Johnson*
 
 </div>
